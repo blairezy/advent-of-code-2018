@@ -1,4 +1,4 @@
-total = 0;
+total = 0
 
 File.open("day_1/input.txt", "r") do |f|
   f.each_line do |line|
